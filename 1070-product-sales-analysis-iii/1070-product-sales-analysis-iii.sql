@@ -1,14 +1,7 @@
 # Write your MySQL query statement below
-SELECT 
-    s.product_id,
-    s.year AS first_year,
-    s.quantity,
-    s.price
-FROM Sales s
-JOIN (
-    -- find the earliest year for each product
-    SELECT product_id, MIN(year) AS first_year
-    FROM Sales
-    GROUP BY product_id
-) AS first_sales
-ON s.product_id = first_sales.product_id AND s.year = first_sales.first_year;
+select s.product_id, f.first_year, quantity,price
+from sales s
+JOIN (select product_id , min(year) as first_year
+from sales
+group by product_id) f
+ON s.product_id = f.product_id AND s.year = f.first_year
