@@ -8,5 +8,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/hailee2/code-kata/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/hailee2/code-kata/tree/master/0585-investments-in-2016) |
+| [1527-patients-with-a-condition](https://github.com/hailee2/code-kata/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/hailee2/code-kata/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
