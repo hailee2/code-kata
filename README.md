@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0185-department-top-three-salaries](https://github.com/hailee2/code-kata/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/hailee2/code-kata/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/hailee2/code-kata/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/hailee2/code-kata/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/hailee2/code-kata/tree/master/0585-investments-in-2016) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/hailee2/code-kata/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/hailee2/code-kata/tree/master/1484-group-sold-products-by-the-date) |
